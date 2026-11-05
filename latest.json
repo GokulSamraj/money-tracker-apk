@@ -1,0 +1,7 @@
+{
+  "version": "0.1.1",
+  "versionCode": 1001,
+  "apkUrl": "https://github.com/GokulSamraj/money-tracker-apk/releases/latest/download/money-tracker-v0.1.1.apk",
+  "notes": "In-app self-updates via GitHub releases (CORS-safe manifest), Android app settings card",
+  "updatedAt": "2026-11-05T15:03:22.048Z"
+}
